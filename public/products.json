@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1",
+    "name": "Basmati Rice",
+    "price": "120.00",
+    "description": "Premium long-grain basmati rice, 1kg",
+    "image_path": "/images/BasmatiRice.jpg",
+    "category": "Grains and Rice"
+  },
+  {
+    "id": "2",
+    "name": "Whole Wheat Flour",
+    "price": "45.00",
+    "description": "Stone-ground whole wheat flour, 1kg",
+    "image_path": "/images/WholeWheatFlour.jpg",
+    "category": "Grains and Rice"
+  },
+  {
+    "id": "3",
+    "name": "Tomatoes",
+    "price": "40.00",
+    "description": "Fresh red tomatoes, 500g",
+    "image_path": "/images/Tomatoes.jpg",
+    "category": "Fruits and Vegetables"
+  },
+  {
+    "id": "4",
+    "name": "Spinach",
+    "price": "30.00",
+    "description": "Fresh green spinach leaves, 250g",
+    "image_path": "/images/Spinach.jpg",
+    "category": "Fruits and Vegetables"
+  },
+  {
+    "id": "5",
+    "name": "Orange Juice",
+    "price": "80.00",
+    "description": "100% pure orange juice, 1L",
+    "image_path": "/images/OrangeJuice.jpg",
+    "category": "Beverages"
+  },
+  {
+    "id": "6",
+    "name": "Coconut Water",
+    "price": "60.00",
+    "description": "Natural coconut water, 500ml",
+    "image_path": "/images/CoconutWater.jpg",
+    "category": "Beverages"
+  },
+  {
+    "id": "7",
+    "name": "Face Cream",
+    "price": "150.00",
+    "description": "Moisturizing face cream, 50ml",
+    "image_path": "/images/FaceCream.jpg",
+    "category": "Personal Care"
+  },
+  {
+    "id": "8",
+    "name": "Shampoo",
+    "price": "120.00",
+    "description": "Nourishing hair shampoo, 250ml",
+    "image_path": "/images/Shampoo.jpg",
+    "category": "Personal Care"
+  },
+  {
+    "id": "9",
+    "name": "Chicken Breast",
+    "price": "180.00",
+    "description": "Fresh boneless chicken breast, 500g",
+    "image_path": "/images/ChickenBreast.jpg",
+    "category": "Meat and Poultry"
+  },
+  {
+    "id": "10",
+    "name": "Salmon Fillet",
+    "price": "250.00",
+    "description": "Fresh Atlantic salmon fillet, 300g",
+    "image_path": "/images/SalmonFillet.jpg",
+    "category": "Seafood"
+  },
+  {
+    "id": "11",
+    "name": "Milk",
+    "price": "60.00",
+    "description": "Fresh whole milk, 1L",
+    "image_path": "/images/Milk.jpg",
+    "category": "Dairy and Eggs"
+  },
+  {
+    "id": "12",
+    "name": "Cheddar Cheese",
+    "price": "120.00",
+    "description": "Aged cheddar cheese, 200g",
+    "image_path": "/images/CheddarCheese.jpg",
+    "category": "Dairy and Eggs"
+  }
+]
+
